@@ -1,4 +1,4 @@
-# Fist Admin - E-commerce de Chocolates
+# Fist Front - E-commerce de Chocolates
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), desenvolvido para a implementação de um e-commerce dedicado à venda de chocolates. O projeto foi realizado por Felipe Veroneze, Matheus Possenti, Rafael Bressan Felicetti, Thiago Trzcinski e Vinicius Slongo como parte das disciplinas de Engenharia de Software, Projeto Aplicado e Desenvolvimento Web.
 
