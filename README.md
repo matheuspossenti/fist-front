@@ -30,7 +30,9 @@ bun dev
 
 Acesse [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado. Você pode começar a editar a página modificando `pages/index.js`. A página será atualizada automaticamente conforme você edita o arquivo.
 
-As [rotas da API](https://nextjs.org/docs/api-routes/introduction) podem ser acessadas em [http://localhost:3000/api/hello](http://localhost:3000/api/hello). Esse endpoint pode ser editado em `pages/api/hello.js`.
+## Deploy no Vercel
+
+Você pode também visualizar o projeto na [Plataforma Vercel](https://fist-front.vercel.app/).
 
 ## Saiba Mais
 
@@ -38,11 +40,5 @@ Para aprender mais sobre Next.js, confira os seguintes recursos:
 
 - [Documentação do Next.js](https://nextjs.org/docs) - aprenda sobre os recursos e a API do Next.js.
 - [Tutorial Interativo Next.js](https://nextjs.org/learn) - um tutorial interativo do Next.js.
-
-Veja [o repositório do Next.js no GitHub](https://github.com/vercel/next.js/) - feedbacks e contribuições são bem-vindos!
-
-## Deploy no Vercel
-
-Você pode também visualizar o projeto na [Plataforma Vercel](https://fist-front.vercel.app/).
 
 Confira nossa [documentação de deploy do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
